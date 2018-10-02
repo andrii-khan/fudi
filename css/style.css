@@ -82,6 +82,9 @@ textarea {
 .ba-menu {
 	display: flex;
 }
+.ba-menu a, .ba-intro a {
+	color :#fff;
+}
 .ba-intro-text-title {
 	font-weight: 700;
 	font-size: 100px;
